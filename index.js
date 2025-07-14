@@ -29,8 +29,8 @@ const FACEBOOK_PIXEL_ID = process.env.FACEBOOK_PIXEL_ID;
 const FACEBOOK_API_TOKEN = process.env.FACEBOOK_API_TOKEN;
 const PUSHINPAY_API_TOKEN = process.env.PUSHINPAY_API_TOKEN;
 
-const apiId = 25053807; 
-const apiHash = '43d89b4ae5432df3d0b896851825470f'; 
+const apiId = 23407276; 
+const apiHash = '8f28ce40f3363daaa4a2007358f084e8'; 
 const stringSession = new StringSession(TELEGRAM_SESSION || '');
 const CHAT_ID = BigInt(-1002682500231);
 
